@@ -1,3 +1,6 @@
+//Created by Dipam Sen
+//Fun Planet
+//Physics >> Uniform Acceleration Under Gravity Simulator
 var object;
 var timer = 0;
 var u;
